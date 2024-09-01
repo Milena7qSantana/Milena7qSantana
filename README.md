@@ -64,7 +64,7 @@
 
 ![Milena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milena7qSantana&show_icons=true&theme=tokyonight) <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milena7qSantana&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milena7qSantana&layout=donut&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Milena7qSantana&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
