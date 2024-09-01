@@ -53,8 +53,13 @@
           target="_blank"
       /></a>
     </div>
-<h3 align="left">GitHub Stats</h3
-![Milena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milena7qSantana&show_icons=true&theme=radical) <br>
+<h3 align="left">GitHub Stats</h3>
+
+![Milena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milena7qSantana&show_icons=true&theme=tokyonight) <br>
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Milena7qSantana&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_radius=3&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Milena7qSantana&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
     
 
