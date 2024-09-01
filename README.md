@@ -1,5 +1,21 @@
 ## Olá! Eu sou a Milena Santana 👋
 
+
+
+<p>
+        👋 Olá! Sou Milena, uma entusiasta da tecnologia com experiência em
+        desenvolvimento web (HTML, CSS, JavaScript, Bootstrap e Python),
+        infraestrutura e redes, além de gerenciamento de banco de dados e ERP. Já
+        cursei inglês e estou no nível intermediário avançado. Também possuo
+        conhecimentos sobre implementação de serviços em nuvem Azure
+</p>
+
+![Milena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milena7qSantana&show_icons=true&theme=tokyonight) <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milena7qSantana&layout=donut&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Milena7qSantana&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
 <div style="display: inline_block">
       <br />
       <img
@@ -62,11 +78,7 @@
     </div>
 <h3 align="left">GitHub Stats</h3>
 
-![Milena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Milena7qSantana&show_icons=true&theme=tokyonight) <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milena7qSantana&layout=donut&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Milena7qSantana&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
     
 
